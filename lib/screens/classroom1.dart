@@ -114,7 +114,7 @@ class Classroom1 extends StatelessWidget {
                           color: Colors.blueAccent),
                       child: Center(
                         child: Text(
-                          'B',
+                          'S',
                           style: Theme.of(context)
                               .textTheme
                               .titleLarge!
