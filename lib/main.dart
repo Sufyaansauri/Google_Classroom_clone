@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gcr/screens/home__screen.dart';
+import 'package:gcr/screens/splash__screen.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
@@ -21,8 +21,8 @@ class App extends StatelessWidget {
           Theme.of(context).textTheme,
         ),
       ),
-      // home: const SplashScreen(),
-      home: const HomeScreen(),
+       home: const SplashScreen(),
+      // home: const HomeScreen(),
     );
   }
 }
