@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gcr/screens/splash__screen.dart';
+import 'package:gcr/screens/splash_screen.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
