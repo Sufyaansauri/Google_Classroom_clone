@@ -22,7 +22,7 @@ class App extends StatelessWidget {
         ),
       ),
        home: const SplashScreen(),
-      // home: const HomeScreen(),
+     
     );
   }
 }
